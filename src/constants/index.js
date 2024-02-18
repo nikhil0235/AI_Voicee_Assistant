@@ -1,5 +1,4 @@
-export const apiKey = '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';
-
+// export const apiKey = {'your own openAI api key '}
 export const dummyMessages = [
     {
         role: 'user', 
