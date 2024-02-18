@@ -46,9 +46,9 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-![WhatsApp Image 2024-02-18 at 12 55 08_88837864](https://github.com/nikhil0235/AI_Voicee_Assistant/assets/109364387/565055d0-a165-428a-9aca-aafc42a09d26)
-![WhatsApp Image 2024-02-18 at 12 55 08_3e93d780](https://github.com/nikhil0235/AI_Voicee_Assistant/assets/109364387/e28c41e5-66a1-44dd-9505-2c177d4d1314)
-![WhatsApp Image 2024-02-18 at 12 55 08_a8bad59d](https://github.com/nikhil0235/AI_Voicee_Assistant/assets/109364387/acdbbdf8-4902-4141-8abb-2e8cfe64153e)
+![WhatsApp Image 2024-02-18 at 12 55 08_88837864](https://github.com/nikhil0235/AI_Voicee_Assistant/assets/109364387/565055d0-a165-428a-9aca-aafc42a09d26){width=50%}
+![WhatsApp Image 2024-02-18 at 12 55 08_3e93d780](https://github.com/nikhil0235/AI_Voicee_Assistant/assets/109364387/e28c41e5-66a1-44dd-9505-2c177d4d1314){width=50%}
+![WhatsApp Image 2024-02-18 at 12 55 08_a8bad59d](https://github.com/nikhil0235/AI_Voicee_Assistant/assets/109364387/acdbbdf8-4902-4141-8abb-2e8cfe64153e){width=50%}
 
 ## Step 3: Modifying your App
 
